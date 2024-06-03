@@ -1,1 +1,4 @@
-node_modules/serviceaccount.json
+node_modules/
+.env
+package-lock.json
+serviceaccount.json
